@@ -15,7 +15,7 @@ jobs:
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
           registry: https://ghcr.io
-          repository: cupel-co/container-hello-world/container-hello-world
+          repository: cupel-co/container-hello-world
           tag_with_ref: true
           dockerfile: Dockerfile
 
