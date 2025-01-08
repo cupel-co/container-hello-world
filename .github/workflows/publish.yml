@@ -18,3 +18,4 @@ jobs:
           repository: widdix/container-hello-world/container-hello-world
           tag_with_ref: true
           dockerfile: Dockerfile
+
